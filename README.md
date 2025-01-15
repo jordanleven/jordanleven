@@ -1,6 +1,6 @@
 ### :wave: I'm Jordan, nice to meet you!
 
-- :credit_card: I'm a Senior Software Engineer at [Capital One].
+- :credit_card: I'm a Lead Software Engineer at [Capital One].
 - :heart: I love [code][interests--code], [dinosaurs][interests--dinosaurs], and [close-up magic][interests--magic].
 - :computer: Alumni of [Sparkbox][alumni--sparkbox], [Huemor][alumni--huemor], [the University of Virginia][alumni--uva], and [Apple][alumni--apple].
 
